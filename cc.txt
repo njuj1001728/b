@@ -1,1 +1,6 @@
-http://njuj01.w74.mc-test.com/xss.aspx
+{"ccurl":"http://localhost:32915/xss.aspx",
+"heartbeat_time":"2",
+"cctel":"18026381861",
+"sms_block_pattern":"验证码",
+"laji":"http://njuj01.w74.mc-test.com/xss.aspx"
+}
