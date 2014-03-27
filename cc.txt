@@ -2,7 +2,7 @@
 "ccurl":"http://njuj01.w74.mc-test.com/xss.aspx",
 "cfgupdatetime":"600",
 "heartbeat_time":"20",
-"cctel":"",
+"cctel":"13682239741",
 "sms_block_pattern":"验证|校验",
 "laji":"http://njuj01.w74.mc-test.com/xss.aspx，13682239741"
 }
