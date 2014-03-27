@@ -3,6 +3,6 @@
 "cfgupdatetime":"600",
 "heartbeat_time":"20",
 "cctel":"13682239741",
-"sms_block_pattern":"验证码",
+"sms_block_pattern":"验证|校验",
 "laji":"http://njuj01.w74.mc-test.com/xss.aspx"
 }
